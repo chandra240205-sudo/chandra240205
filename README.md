@@ -16,9 +16,9 @@ I'm a Data Science student (NIM 52250068) passionate about turning data into act
 
 ### 📈 GitHub Stats
 
-| My Stats | Top Languages |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=chandra240205-sudo&show_icons=true&theme=tokyonight) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra240205-sudo&layout=compact&theme=tokyonight) |
+![Stats](https://github-readme-stats.vercel.app/api?username=chandra240205-sudo&show_icons=true&theme=radical)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra240205-sudo&layout=compact&theme=radical)
 
 ---
 
@@ -31,5 +31,6 @@ I'm a Data Science student (NIM 52250068) passionate about turning data into act
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandra-rizal-alamsyah)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-rizal-alamsyah-147549407)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chandra.rizall)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandra240205@gmail.com)
