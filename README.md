@@ -2,7 +2,7 @@
 
 ### 📊 Data Science Student at ITSB
 
-I'm a Data Science student (NIM 52250068) passionate about turning data into actionable insights. Currently focusing on R, Python, and database management.
+I'm a Data Science student passionate about turning data into actionable insights. Currently focusing on R, Python, and database management.
 
 ---
 
